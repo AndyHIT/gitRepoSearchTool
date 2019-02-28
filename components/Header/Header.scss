@@ -1,0 +1,15 @@
+.header-wrapper{	
+	background-color: #2e8fd4;
+	min-height: 60px;
+	.header{
+		// max-width: 1140px;
+		display: flex;
+		margin: 0 auto;
+		.header-logo{
+			justify-content: center;
+			// max-width: 150px;
+			max-height: 25px;
+			margin: 30px 30px;
+		}
+	}
+}
